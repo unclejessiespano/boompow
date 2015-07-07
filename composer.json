@@ -1,6 +1,8 @@
-"repositories":[
-	{
-		"type":"vcs",
-		"url":"https://github.com/unclejessiespano/boompow.git"
-	}
-],
+{
+	"repositories":[
+		{
+			"type":"vcs",
+			"url":"https://github.com/unclejessiespano/boompow.git"
+		}
+	],
+}
